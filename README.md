@@ -1,1 +1,1 @@
-# My-Codeforces-Solve
+# Codeforces-Solve
